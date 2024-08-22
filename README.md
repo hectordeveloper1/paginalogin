@@ -15,7 +15,7 @@ Este projeto é uma aplicação web construída com Vue.js no frontend e Express
 Primeiro, você precisará clonar este repositório para a sua máquina local. Execute o seguinte comando no terminal:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/hectordeveloper1/paginalogin
 cd nome-do-repositorio
 ```
 
