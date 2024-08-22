@@ -1,6 +1,6 @@
 # Meu Projeto Vue.js e Express
 
-![Print do Projeto](./frontend/src/assets/img/image.png);
+![Print do Projeto](./frontend/src/assets/img/image.png)
 
 Este projeto é uma aplicação web construída com Vue.js no frontend e Express.js no backend, usando MongoDB como banco de dados. Ele permite que os usuários façam login, visualizem seus nomes de usuário, e atualizem suas informações pessoais, como email, username e senha.
 
